@@ -1,11 +1,13 @@
-### Hi there, I'm Pradeep Suthar [sutharp777][website] 👋
+### Hi there, I'm Pradeep Suthar [sutharp777:octocat:][website] 👋
 
 ## I'm Software Developer and Data Scientist!
-- 🔭 I’m currently working on ![online ide][ide]
-- 🌱 I’m currently learning VueJs, Data Science
-- 👯 I’m looking to collaborate with Open Source Initiative.
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: ![twitter][twitter] ![linkedin][linkedin]
+- 🔭 I’m currently working on ![:octocat:online ide][ide]
+- 🌱 I’m currently learning VueJs, Data Science.
+- 👯 I’m looking to collaborate with Open Source Initiative :octocat:.
+- 🥅 2020 Goals: Contribute more to Open Source projects :octocat:.
+- 📫 How to reach me: [<img align="center" alt="sutharp777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+                      [<img align="center" alt="sutharp777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+
 - ⚡ Fun fact: I love Space Science and Computer Programming :atom:.
 
 

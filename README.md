@@ -10,6 +10,7 @@
 
 - ⚡ Fun fact: I love Space Science and Computer Programming :atom:.
 
+<img align="left" alt="sutharp777's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sutharp777&show_icons=true&hide_border=true" />
 
 [ide]:https://github.com/coding-blocks/ide
 [website]: https://sutharp777.github.io/my-resume/

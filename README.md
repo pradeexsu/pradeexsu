@@ -1,6 +1,6 @@
 ### Hi there, I'm Pradeep Suthar [sutharp777:octocat:][website] 👋
 
-## I'm Software Developer and Data Scientist!
+## I'm a Software Developer and Data Scientist!
 - 🔭 I’m currently working on :octocat:![online ide][ide]
 - 🌱 I’m currently learning VueJs, Data Science.
 - 👯 I’m looking to collaborate with Open Source Initiative :octocat:.

@@ -1,4 +1,4 @@
-### Hi there, I'm Pradeep Suthar [sutharp777:octocat:][website] 👋
+### Hi there, I'm Pradeep Suthar [sutharp777][website] 👋
 
 ## I'm a Software Developer and Data Scientist!
 - 🔭 I’m currently working on :octocat:![online ide][ide]
@@ -8,7 +8,7 @@
 - 📫 How to reach me: [<img align="center" alt="sutharp777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
                       [<img align="center" alt="sutharp777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 
-- ⚡ Fun fact: I love Space Science and Computer Programming :atom:.
+- ⚡ Fun fact: I love Space Science and Computer Programming :atom:![link](cb.lk/ide).
 
 <img align="left" alt="sutharp777's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sutharp777&show_icons=true&hide_border=true" />
 

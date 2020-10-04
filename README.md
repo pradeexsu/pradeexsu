@@ -8,7 +8,7 @@
 - 📫 How to reach me: [<img align="center" alt="sutharp777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
                       [<img align="center" alt="sutharp777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 
-- ⚡ Fun fact: I love Space Science and Computer Programming :atom:![link](cb.lk/ide).
+- ⚡ Fun fact: I love Space Science and Computer Programming :atom:.
 
 <img align="left" alt="sutharp777's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sutharp777&show_icons=true&hide_border=true" />
 

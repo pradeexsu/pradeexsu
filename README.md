@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on :octocat:![online ide][ide]
 - 🌱 I’m currently learning VueJs, Data Science.
 - 👯 I’m looking to collaborate with Open Source Initiative :octocat:.
-- 🥅 2020 Goals: Contribute more to Open Source projects :octocat:.
+- 🥅 2021 Goals: Contribute more to Open Source projects :octocat:.
 - 📫 How to reach me: [<img align="center" alt="sutharp777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
                       [<img align="center" alt="sutharp777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 

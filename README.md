@@ -12,7 +12,7 @@
 
 <img align="left" alt="sutharp777's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sutharp777&show_icons=true&hide_border=true" />
 
-[ide]:https://pradeeps-ide-seven.herokuapp.com/
+[ide]: https://pradeeps-ide-seven.herokuapp.com/
 [website]: https://sutharp777.github.io/my-resume/
 [twitter]: https://twitter.com/sutharp777
 <!-- [youtube]: https://youtube.com/sutharp777 -->

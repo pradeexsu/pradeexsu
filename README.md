@@ -1,7 +1,7 @@
 ### Hi there, I'm Pradeep Suthar [sutharp777][website] 👋
 
 ## I'm a Software Developer and Data Scientist!
-- 🔭 I’m currently working on :octocat: [online web ide]( https://pradeeps-ide-seven.herokuapp.com/) and [cb-ide][ide]
+- 🔭 I’m currently working on :octocat: [online web ide]( https://www.ideseven.live/ ) and [cb-ide][ide]
 - 🌱 I’m currently learning VueJs, Data Science.
 - 👯 I’m looking to collaborate with Open Source Initiative :octocat:.
 - 🥅 2021 Goals: Contribute more to Open Source projects :octocat:.

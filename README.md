@@ -6,17 +6,17 @@
 
 
 
-![](https://raw.githubusercontent.com/metoop/shravan20/main/assets/header.png)
+<!-- ![](https://raw.githubusercontent.com/metoop/shravan20/main/assets/header.png) -->
 
 <!--
 <h4 align="center"> I’m currently working on :octocat: <a href="https://www.ideseven.live/">online web ide</a>
   </h4>
 -->  
+![conrtribution chart](https://user-images.githubusercontent.com/49487927/121585645-7390dc80-ca50-11eb-9873-60101788dfc5.gif)
+
 <h4 align="center">
     <b> 2021 Goals: Contribute more to Open Source projects :octocat: </b>
 </h4>
-
-![conrtribution chart](https://user-images.githubusercontent.com/49487927/111588608-cc522f80-87e9-11eb-9018-e2aa406ea2c3.gif)
 
 <br>
 

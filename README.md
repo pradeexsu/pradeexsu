@@ -22,7 +22,7 @@
 
 <p align="center">
   <a title="Portfolio" href="https://sutharp777.github.io/">
-    <img src="https://iamskb258154309.files.wordpress.com/2020/07/cropped-circle-cropped.png" width="50" height="50" />
+    <img src="https://cdn0.iconfinder.com/data/icons/web-development-79/32/development_globe_sphere-64.png" width="50" height="50" />
   </a>
   &nbsp;
   &nbsp;
@@ -47,19 +47,19 @@
   &nbsp;
   
   <a title="Email" href="mailto:sutharp777@gmail.com">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50" />
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-64.png" width="50" height="50" />
   </a>
   &nbsp;
   &nbsp;
   
   <a title="Stackoverflow" href="https://stackoverflow.com/users/12537691/sutharp777?tab=profile">
-    <img src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-512.png" width="50" height="50" />
+    <img src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-64.png" width="50" height="50" />
   </a>
   &nbsp;
   &nbsp;
   
   <a title="Twitter" href="https://twitter.com/sutharp777">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-512.png" width="50" height="50" />
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-64.png" width="50" height="50" />
   </a>
 </p>
 

@@ -40,7 +40,7 @@
   &nbsp;
   &nbsp;
   -->
-  <a title="LinkedIn" href="https://www.linkedin.com/in/sutharp777/">
+  <a title="LinkedIn" href="https://www.linkedin.com/in/pradeep-swe/">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
   </a>
   &nbsp;
@@ -58,7 +58,7 @@
   &nbsp;
   &nbsp;
   
-  <a title="Twitter" href="https://twitter.com/sutharp777">
+  <a title="Twitter" href="https://twitter.com/pradeep_thar">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-64.png" width="50" height="50" />
   </a>
 </p>

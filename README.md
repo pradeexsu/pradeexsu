@@ -15,7 +15,7 @@
 ![conrtribution chart](https://user-images.githubusercontent.com/49487927/121585645-7390dc80-ca50-11eb-9873-60101788dfc5.gif)
 
 <h4 align="center">
-    <b> 2021 Goals: Contribute more to Open Source projects :octocat: </b>
+    <b> 2022 Goals: Research, Learn, and Contribute to Community :octocat: </b>
 </h4>
 
 <br>

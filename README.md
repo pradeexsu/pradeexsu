@@ -12,8 +12,10 @@
 <h4 align="center"> I’m currently working on :octocat: <a href="https://www.ideseven.live/">online web ide</a>
   </h4>
 -->  
-![conrtribution chart](https://user-images.githubusercontent.com/49487927/121585645-7390dc80-ca50-11eb-9873-60101788dfc5.gif)
-
+<!-- ![conrtribution chart](https://user-images.githubusercontent.com/49487927/121585645-7390dc80-ca50-11eb-9873-60101788dfc5.gif)-->
+<p align="center">
+    <img src="https://raw.githubusercontent.com/sutharp777/pradeep-2/746baddd88ead368903588943c219c12f3106546/gitartwork.svg" alt="contribution heatmap">
+</p>
 <h4 align="center">
     <b> 2022 Goals: Research, Learn, and Contribute to Community :octocat: </b>
 </h4>

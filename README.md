@@ -1,10 +1,7 @@
 
-
 <p align="center">
   <h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35">, I am pradeep </h1>
 </p>
-
-
 
 <!-- ![](https://raw.githubusercontent.com/metoop/shravan20/main/assets/header.png) -->
 

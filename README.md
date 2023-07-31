@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <a title="Portfolio" href="https://sutharp777.github.io/">
+  <a title="Portfolio" href="https://pradeexsu.github.io/">
     <img src="https://cdn0.iconfinder.com/data/icons/web-development-79/32/development_globe_sphere-64.png" width="50" height="50" />
   </a>
   &nbsp;

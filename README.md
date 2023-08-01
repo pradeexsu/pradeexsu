@@ -2,17 +2,7 @@
 
 <h3 align="center"> 💻 Full Stack Developer | 📖 Tech enthusiast</h3>
 
-![](https://raw.githubusercontent.com/metoop/shravan20/main/assets/header.png) 
-
-
-
-<!--
-<h4 align="center"> I’m currently working on :octocat: <a href="https://www.ideseven.live/">online web ide</a>
-  </h4>
--->
-<!-- ![conrtribution chart](https://user-images.githubusercontent.com/49487927/121585645-7390dc80-ca50-11eb-9873-60101788dfc5.gif)-->
-
-
+![](https://raw.githubusercontent.com/metoop/shravan20/main/assets/header.png)
 <br>
 
 <p align="center">
@@ -58,25 +48,46 @@
   </a>
 </p>
 
-
 ### A little more about me...
 
 ```js
 const jake = Developer(
-    codes= listOf("Typescript", "JavaScript", "Java", "Kotlin", "Python", "C++", "R", "Bash"),
-    tools = listOf("Spring Boot", "Android", "React.js", "Node", "Next.js", "Kafka", "gRPC", "Docker", "Much more..."),
-    archs = listOf("Microservices", "MVVM", "MVP", "MVC"),
-    goals = listOf(
-      Goal("build a highly performant and reliable system that millions can use.")
+  (codes = listOf(
+    'Typescript',
+    'JavaScript',
+    'Java',
+    'Kotlin',
+    'Python',
+    'C++',
+    'R',
+    'Bash',
+  )),
+  (tools = listOf(
+    'Spring Boot',
+    'Android',
+    'React.js',
+    'Node',
+    'Next.js',
+    'Kafka',
+    'gRPC',
+    'Docker',
+    'Much more...',
+  )),
+  (archs = listOf('Microservices', 'MVVM', 'MVP', 'MVC')),
+  (goals = listOf(
+    Goal(
+      'build a highly performant and reliable system that millions can use.',
     ),
-    hobbies = listOf(
-      Hobby("Skateboard"),
-      Hobby("External Affairs"), 
-      Hobby("Mountain Trekking"),
-      Hobby("Aerospace and Defence")
-    )
-  )
+  )),
+  (hobbies = listOf(
+    Hobby('Skateboard'),
+    Hobby('External Affairs'),
+    Hobby('Mountain Trekking'),
+    Hobby('Aerospace and Defence'),
+  )),
+);
 ```
+
 <img src="https://komarev.com/ghpvc/?username=sutharp777&color=blueviolet" alt="profile-views">
 
 <div align="center">
@@ -87,31 +98,3 @@ const jake = Developer(
 <img src="https://metrics.lecoq.io/pradeexsu?template=terminal&lines=1&habits=1&code=1&tweets=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&tweets=false&tweets.user=0xrinshin&tweets.attachments=true&tweets.limit=2&config.timezone=Asia%2FKolkata&config.twemoji=true" height='100%'/>
     </details>
 </div>
-<!-- Here are some [🦜 parrots](https://cultofthepartyparrot.com): -->
-<!--
- <div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/harrypotterparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-</div> -->
-

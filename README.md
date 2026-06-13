@@ -51,18 +51,6 @@
 
 ---
 
-### 🚀 Featured projects
-
-| Project | What it is |
-|---|---|
-| **[Paxillin](https://paxillin.com)** | Healthcare networking & clinical-workflow platform — Next.js + TypeScript. |
-| **[paxillin-ai-service](https://github.com/pradeexsu/paxillin-ai-service)** | Multi-agent RAG system for medical queries — FastAPI · MongoDB · LangChain. |
-| **[Online IDE](https://ide-khaki.vercel.app)** · [engine](https://github.com/pradeexsu/compiler-engine) | Browser code editor that compiles & runs code in a Docker-backed execution engine. |
-| **[Task Forge](https://task-forge-beige.vercel.app)** | Task-management app — React · Zustand · Tailwind, with a Node + Prisma backend. |
-| **[recom](https://cran.r-project.org/web/packages/recom/index.html)** | Comment-stripping utility for R scripts — published on **CRAN**. |
-
----
-
 ### 🧑‍💻 A little more about me
 
 ```js
